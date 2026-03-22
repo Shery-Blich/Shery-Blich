@@ -35,3 +35,4 @@ I am currently refining my craft in the interactive media space using **Unity**.
 ### 📫 Let's Connect
 * **Itch.io:** [sheryblich.itch.io](https://sheryblich.itch.io/)
 * **GitHub:** [@Shery-Blich](https://github.com/Shery-Blich)
+* **Linkedin:** [Shery Blich](https://www.linkedin.com/in/shery-blich/)
